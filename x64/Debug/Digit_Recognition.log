@@ -1,0 +1,4 @@
+﻿  Digit_Recognition.cpp
+C:\Users\Tiam\Desktop\classify\Digit_Recognition.cpp(136,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Tiam\Desktop\classify\Digit_Recognition.cpp(234,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Digit_Recognition.vcxproj -> C:\Users\Tiam\Desktop\classify\x64\Debug\Digit_Recognition.exe
